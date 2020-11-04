@@ -1,0 +1,4 @@
+[submodule "account-financial-tools"]
+	path = account-financial-tools
+	url = https://github.com/OCA/account-financial-tools.git
+	branch = Submod_test
