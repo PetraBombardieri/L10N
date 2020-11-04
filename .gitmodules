@@ -2,3 +2,7 @@
 	path = account-financial-tools
 	url = https://github.com/OCA/account-financial-tools.git
 	branch = Submod_test
+[submodule "account-invoicing"]
+	path = account-invoicing
+	url = https://github.com/OCA/account-invoicing.git
+	branch = Submod_test
